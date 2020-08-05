@@ -30,12 +30,14 @@
 * [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
+* [Processing](#processing)
 * [Python](#python)
   * [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
 * [Sage](#sage)
 * [Scilab](#scilab)
+* [Scratch](#scratch)
 * [SPIP](#spip)
 * [SQL](#sql)
 * [Systèmes d'exploitation](#systemes-d-exploitation)
@@ -61,7 +63,7 @@
 
 #### Logiciels libres
 
-* [Histoires et cultures du libres](http://framabook.org/histoiresetculturesdulibre/)
+* [Histoires et cultures du Libre](http://framabook.org/histoiresetculturesdulibre/)
 * [Option libre. Du bon usage des licences libres](http://framabook.org/optionlibre-dubonusagedeslicenceslibres/) - Jean Benjamin
 * [Produire du logiciel libre](http://framabook.org/produire-du-logiciel-libre-2/) - Karl Fogel
 * [Richard Stallman et la révolution du logiciel libre](http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre-2/) - R.M. Stallman, S. Williams et C. Masutti
@@ -134,6 +136,7 @@
 ### Javascript
 
 * [Javascript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
+* [Node.Js: Apprendre par la pratique](https://oncletom.io/node.js/#chapitres) - Thomas Parisot 
 
 
 ### jQuery
@@ -179,6 +182,7 @@
 
 #### TeX
 
+* [Apprendre à programmer en TeX](https://ctan.org/pkg/apprendre-a-programmer-en-tex) - Christian Tellechea
 * [TeX pour l'Impatient](http://www.apprendre-en-ligne.net/LaTeX/teximpatient.pdf) - Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche (PDF)
 
 
@@ -197,12 +201,6 @@
 ### Meteor
 
 * [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle
-* [Discover Meteor](http://fr.discovermeteor.com) - Tom Coleman et Sacha Greif
-
-
-### OCaml
-
-* [Apprendre à programmer avec OCaml](http://programmer-avec-ocaml.lri.fr)
 
 
 ### Perl
@@ -216,6 +214,11 @@
 * [Cours de PHP 5](http://g-rossolini.developpez.com/tutoriels/php/cours/?page=introduction) - Guillaume Rossolini
 * [Initiation au PHP](http://framasoft.net/IMG/pdf/initiation_php.pdf) - David Ducrocq (PDF)
 * [Programmer en PHP](http://www.lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) - Julien Gaulmin (PDF)
+
+
+### Processing
+
+* [Processing](https://fr.flossmanuals.net/processing/) - Œuvre collective (HTML)
 
 
 ### Python
@@ -256,6 +259,11 @@
 * [Introduction à Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/) - Michaël Baudin, Artem Glebov, Jérome Briot
 
 
+### Scratch
+
+* [Informatique Créative](https://pixees.fr/programmation-creative-en-scratch/)
+
+
 ### SPIP
 
 * [Programmer avec SPIP](http://programmer.spip.net) - Matthieu Marcimat et collectif SPIP
@@ -264,6 +272,7 @@
 ### SQL
 
 * [Cours complet pour apprendre les différents types de bases de données et le langage SQL](https://sgbd.developpez.com/tutoriels/cours-complet-bdd-sql/) - Jacques Le Maitre
+* [Only SQL. Tout ce que vous avez toujours voulu savoir sur les SGBD sans jamais avoir osé le demander.](https://framabook.org/not-only-sql/) - Vincent Lozano et Éric Georges
 
 
 ### Systèmes d'exploitation
